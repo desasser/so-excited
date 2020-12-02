@@ -1,5 +1,5 @@
 body {
-    background: chartreuse;
+    background: #c7ea46;
 }
 
 .container {
@@ -7,5 +7,30 @@ body {
     border: 1px solid black;
     box-shadow: 4px 6px;
     background-color: blanchedalmond;
+    margin: 0 auto;
+    height: 95vh;
+}
+
+.imageBlock {
+    height: 50px;
+    background-color: blueviolet;
+    float: center;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 5px;
+    color: whitesmoke;
+}
+
+.center {
+    display: block;
     margin: 0 auto;
 }
